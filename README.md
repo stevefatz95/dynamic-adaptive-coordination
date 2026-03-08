@@ -1,6 +1,6 @@
 # Dynamic Adaptive Coordination
 
-Computational materials accompanying the paper **“How Intelligence Emerges: A Minimal Theory of Dynamic Adaptive Coordination”.**
+Computational materials accompanying the paper **“How Intelligence Emerges: A Minimal Theory of Dynamic Adaptive Coordination”**.
 
 ## Overview
 
