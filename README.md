@@ -1,5 +1,3 @@
-This project is released under the MIT License.
-
 # Dynamic Adaptive Coordination
 
 Computational materials accompanying the paper **“How Intelligence Emerges: A Minimal Theory of Dynamic Adaptive Coordination”.**
