@@ -89,7 +89,7 @@ If you find this work or the code implementation useful for your research or you
 
 The full manuscript describing the theoretical framework can be found here:
 
-(Add link once uploaded — e.g. arXiv / SSRN)
+[Read the paper on arXiv](https://arxiv.org/abs/2603.11560)
 
 ## License
 
