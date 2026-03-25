@@ -1,6 +1,6 @@
 # Dynamic Adaptive Coordination
 
-Computational materials accompanying the paper **“A Minimal Theory of Dynamical Adaptive Coordination in Multi-Agent Systems”**.
+Computational materials accompanying the paper **“Theory of Dynamical Adaptive Coordination”**.
 
 ## Overview
 
@@ -81,7 +81,7 @@ If you find this work or the code implementation useful for your research or you
 
 ```bibtex
 @article{grassi2026coordination,
-  title={A Minimal Theory of Dynamical Adaptive Coordination in Multi-Agent Systems},
+  title={Theory of Dynamical Adaptive Coordination},
   author={Grassi, Stefano},
   year={2026}
 }
