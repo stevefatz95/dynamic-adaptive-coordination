@@ -1,6 +1,6 @@
 # Dynamic Adaptive Coordination
 
-Computational materials accompanying the paper **“How Intelligence Emerges: A Minimal Theory of Dynamic Adaptive Coordination”**.
+Computational materials accompanying the paper **“A Minimal Theory of Dynamical Adaptive Coordination in Multi-Agent Systems”**.
 
 ## Overview
 
@@ -70,6 +70,8 @@ The implementations focus on:
 * stability verification via Jacobian eigenvalues
 * parameter regime exploration
 * stochastic robustness analysis
+* Nonlinear robustness: Stable spiral convergence under tanh saturation
+* Macroscopic scalability: High-performance vectorized simulation ($N= 10^6$ agents)
 
 The objective is **structural validation of the theoretical model**, not performance optimization.
 
@@ -79,13 +81,13 @@ If you find this work or the code implementation useful for your research or you
 
 ```bibtex
 @article{grassi2026coordination,
-  title={How Intelligence Emerges: A Minimal Theory of Dynamic Adaptive Coordination},
+  title={A Minimal Theory of Dynamical Adaptive Coordination in Multi-Agent Systems},
   author={Grassi, Stefano},
   year={2026}
 }
 ```
 
-## Paper
+## Preprint
 
 The full manuscript describing the theoretical framework can be found here:
 
