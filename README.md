@@ -30,7 +30,7 @@ system dynamics**, not as the solution to an optimization problem.
 | :--- | :--- |
 | `notebooks/figures_fcms.ipynb` | Reproduces Figures 2–5 from the paper: disagreement dynamics, early warning signatures, nonlinear phase portrait, and scalability |
 | `notebooks/coordination_dynamics_verification.ipynb` | Structural verification of the theoretical model: stability analysis, ablation studies, bifurcation analysis, robustness simulations, and macroscopic scalability |
-| `figures/Figure_1.png` | Recursive FCMS architecture diagram (draw.io) |
+| `figures/Figure_1.png` | Recursive FCMS architecture diagram |
 | `figures/Figure_2.png` | Disagreement dynamics and Neimark–Sacker boundary |
 | `figures/Figure_3.png` | Early warning signatures near bifurcation threshold |
 | `figures/Figure_4.png` | Nonlinear phase portrait under tanh saturation |
